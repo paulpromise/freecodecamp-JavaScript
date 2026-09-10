@@ -18,3 +18,9 @@ console.log(codingFact);
 console.log(
   "It was fun sharing these facts with you. Goodbye! - " + botName + " from " + botLocation + ".",
 );
+console.log(String.fromCharCode(66));
+
+let text = "JavaScript is awesome!";
+let result = text.slice(0, 9);
+
+console.log(result);
